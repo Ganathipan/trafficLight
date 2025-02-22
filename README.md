@@ -1,4 +1,5 @@
-# Traffic Light Control System - CO221 Assignment
+# Traffic Light Control System - CO221 Assignment  
+**_Department of Computer Engineering, Faculty of Engineering, University of Peradeniya_**
 
 ## Overview
 This project implements a **Traffic Light Control System** for a four-way junction using **combinational logic circuits**. The system ensures smooth traffic flow while adhering to pedestrian safety guidelines and traffic rules.
